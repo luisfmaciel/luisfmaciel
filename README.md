@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?gclid=Cj0KCQjwvLOTBhCJARIsACVldV16BfdJaSzqsVvHlip6cCR4YM2GWxtiEnpGnTYyYaFQSNC8v5cEnGkaAsU1EALw_wcB
+https://github.com/anuraghazra/github-readme-stats/tree/master/themes
 **luisfmaciel/luisfmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
