@@ -1,4 +1,4 @@
-### Olá! Me chamo Luis. Seja Bem-Vindo 👋
+### Olá! Me chamo Luis. Sejam muito bem-vindos 👋
 
 Em construção...
 
