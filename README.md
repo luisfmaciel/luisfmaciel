@@ -5,7 +5,7 @@
 
 <h3>Me chamo Luis Felipe Maciel</h3>
 
-- 👨‍💻 Atualmente sou aluno da Graduação de Engenharia de Software no Instituto Infnet
+- 👨‍💻 Profissional formado em Engenharia de Software pelo Instituto Infnet
 - 💻 Ampliando meus conhecimentos como FullStack Web Developer
 - 📍 Rio de Janeiro, RJ - Brasil
 
